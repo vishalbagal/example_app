@@ -1,0 +1,41 @@
+.home{
+    color: rgb(231, 85, 17);
+}
+.container{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.header h3{
+    color: orangered;
+}
+
+.header ul{
+    list-style: none;
+    display: flex;
+}
+.header ul li{
+    width: 60px;
+}
+.header ul li a{
+    text-decoration: none;
+}
+
+.footer{
+    margin-top: 70px;
+}
+.footer ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.footer ul li{
+    padding: 10px;
+}
+img{
+    width: 500px;
+}
